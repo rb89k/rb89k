@@ -1,4 +1,4 @@
-## Hi there 👋
+## for now, an arbitrage of documentation and retrospectives 👋
 
 <!--
 **rb89k/rb89k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🔭 i’m currently working on ...  
+
+- using an ESCPOS receipt printer to output reminders, notes, tasks, etc. using the socat utility tool
