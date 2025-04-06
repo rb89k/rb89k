@@ -1,20 +1,23 @@
-## for now, an arbitrage of documentation and retrospectives 👋
+## For now, an arbitrage of documentation and retrospectives 👋
 
-<!--
-**rb89k/rb89k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- TO-DO 
+- Upload webrtc directory and test cases.
 -->
 
-# 🔭 i’m currently working on ...  
+### Recent updates
 
-- using an ESCPOS receipt printer to output reminders, notes, tasks, etc. using the socat utility tool
+- 🎉Successfully received IDE approval.
+
+While working with software engineers on a large, complex project in a highly regulated field, we pinpointed inter-component communication via messaging as a significant risk. The application's non-determinism, caused by timing variations and complexity, made comprehensive test automation difficult for these interactions. Therefore, we strategically focused manual testing efforts on validating the functionality of these high-risk communication pathways.
+
+-------------------------------------------------------------------------------------------------------
+
+![test_plan](https://github.com/user-attachments/assets/e9155221-7f28-4aa9-bd1d-7d31954ea2bf)  
+
+-------------------------------------------------------------------------------------------------------
+
+### 🔭 I’m currently working on ...  
+
+- using an ESCPOS receipt printer to output reminders, notes, tasks, etc. using the socat utility tool.
+
+
