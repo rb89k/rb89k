@@ -11,7 +11,7 @@
 
 ### Recent updates
 
-- 🎉Successfully received IDE approval.
+- 🎉 Successfully received IDE approval.
 
 While working with software engineers on a large, complex project in a highly regulated field, we pinpointed inter-component communication via messaging as a significant risk. The application's non-determinism, caused by timing variations and complexity, made comprehensive test automation difficult for these interactions. Therefore, we strategically focused manual testing efforts on validating the functionality of these high-risk communication pathways.
 
@@ -21,8 +21,10 @@ While working with software engineers on a large, complex project in a highly re
   <summary>Checklist</summary>
   
   - [ ] Provide a description of issue or defect observed.
+  - [ ] State the expected behavior.
+  - [ ] State the actual behavior.
   - [ ] List the reporter (i.e. person who observed the issue).
-  - [ ] State the test nnvironment.
+  - [ ] State the test environment.
     - [ ] List the software version.
     - [ ]  Include configuration settings (e.g. workstation, virtual machine, operating system)
     - [ ]  Include the log/data path location (e.g. cloud storage/file directory).
