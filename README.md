@@ -4,6 +4,11 @@
 - Upload webrtc directory and test cases.
 -->
 
+### 🔭 I’m currently working on ...  
+
+- Peer-to-peer WebRTC application https://github.com/rb89k/p2pwebrtc/tree/main  
+- using an ESCPOS receipt printer to output reminders, notes, tasks, etc. using the socat utility tool.
+
 ### Recent updates
 
 - 🎉Successfully received IDE approval.
@@ -16,8 +21,5 @@ While working with software engineers on a large, complex project in a highly re
 
 -------------------------------------------------------------------------------------------------------
 
-### 🔭 I’m currently working on ...  
-
-- using an ESCPOS receipt printer to output reminders, notes, tasks, etc. using the socat utility tool.
 
 
